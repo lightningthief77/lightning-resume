@@ -42,3 +42,8 @@ Unknown - Unknown
   * Responsible for:
   * Hosting shifts down at the Coffee Shop
   * Moderating rulebreakers
+
+* Intern <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/c6df08f1-d7e9-4973-a694-3a868fa03870" width="20" height="20">
+* UNKNOWN - UNKNOWN
+  * Responsible for:
+  * Learning how to become a member of management (Shift Supervisor)
