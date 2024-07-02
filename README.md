@@ -1,3 +1,4 @@
 # lightningthief77's Resume
-🍁 Toronto, Ontario_
+🍁 Toronto, Ontario  
+He
 He/Him
