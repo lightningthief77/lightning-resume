@@ -1,4 +1,4 @@
-# lightningthief77's Resume
+# lightningthief77's Management Resume
 🍁 Toronto, Ontario  
 He/Him
 
