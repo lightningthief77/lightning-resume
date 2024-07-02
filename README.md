@@ -50,7 +50,7 @@ Unknown - Friday, June 21, 2024
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/189a84be-2b11-44e5-8440-0bbc7aab431b" width="25" height="25"> Bloxstreet Corporation
 UNKNOWN - UNKNOWN
 
-* Store Executive <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
+* Store Executive <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/bc5d1b7a-ece2-4238-baae-109fbcedf7af" width="20" height="20">
 * Unknown - Friday, June 21, 2024
   * Responsible for:
   * Ranking shifts & trainings
