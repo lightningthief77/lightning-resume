@@ -40,7 +40,7 @@ Unknown - Friday, June 21, 2024
   * Helping manage the Human Resources Department alongside the Director
   * Managing the staff and management team, and handling misconduct reports
 
-* Board of Directors <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
+* Board of Directors <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/bc5d1b7a-ece2-4238-baae-109fbcedf7af" width="20" height="20">
 * Unknown - Friday, June 21, 2024
   * Responsible for:
   * Group management
