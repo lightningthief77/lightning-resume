@@ -47,3 +47,12 @@ Unknown - Unknown
 * UNKNOWN - UNKNOWN
   * Responsible for:
   * Learning how to become a member of management (Shift Supervisor)
+
+### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/80549d67-b58f-4ec0-9ebe-4300e98b70e2" width="25" height="25"> Bloxstreet Corporation
+UNKNOWN - UNKNOWN
+
+* Human Resources Deputy-Director <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
+* Unknown - Friday, June 21, 2024
+  * Responsible for:
+  * Helping manage the Human Resources Department alongside the Director
+  * Managing the staff and management team, and handling misconduct reports
