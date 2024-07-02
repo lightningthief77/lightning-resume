@@ -32,6 +32,6 @@ Unknown - Friday, June 21, 2024
 Unknown - Unknown  
 
 * Shift Manager <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20">
-* Unknown TODO - Unknown TODO
+* Thursday June 27th, 2024 - Now
   * Responsible for:
   * Hosting shifts down at the Coffee Shop
