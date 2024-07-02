@@ -47,7 +47,7 @@ Unknown - Friday, June 21, 2024
   * Ranking and Demoting
   * Handling reports and moderating the discord
 
-### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/80549d67-b58f-4ec0-9ebe-4300e98b70e2" width="25" height="25"> Bloxstreet Corporation
+### <img src="https://"https://github.com/lightningthief77/lightning-resume/assets/131876425/189a84be-2b11-44e5-8440-0bbc7aab431b" width="25" height="25"> Bloxstreet Corporation
 UNKNOWN - UNKNOWN
 
 * Store Executive <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
