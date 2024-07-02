@@ -27,3 +27,11 @@ Unknown - Friday, June 21, 2024
   * Group management
   * Ranking and Demoting
   * Handling reports and moderating the discord
+
+### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d6d9e0df-ac68-466b-9d27-468ddb3b316c" width="25" height="25"> Starblocks Corporation
+Unknown - Unknown  
+
+* Shift Manager <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20">
+* Unknown TODO - Unknown TODO
+  * Responsible for:
+  * TODO
