@@ -14,7 +14,7 @@ He/Him
   * Managing various departments
   * Managing the ticketing and mailing system <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/481e2fe5-63f6-4ce6-ac44-fc92d34800bb" width="20" height="20">
 
-### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d6d9e0df-ac68-466b-9d27-468ddb3b316c" width="25" height="25"> Starblocks Corporation
+### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d6d9e0df-ac68-466b-9d27-468ddb3b316c" width="25" height="25"> [Starblocks Corporation](https://www.roblox.com/groups/14499927/Starblocks#!/about)
 <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> Tuesday June 4th, 2024 - Unknown  
 
 * Corporate Intern <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b4309ecb-354d-4be9-b2f0-647e19987c72" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
