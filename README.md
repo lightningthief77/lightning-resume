@@ -9,7 +9,7 @@ He/Him
   * Responsible for:
   * Group Management
   * Managing various departments
-  * Managing the ticketing and mailing system
+  * Managing the ticketing and mailing system <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/481e2fe5-63f6-4ce6-ac44-fc92d34800bb" width="20" height="20">
 
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d6d9e0df-ac68-466b-9d27-468ddb3b316c" width="25" height="25"> Starblocks Corporation
 Unknown - Unknown  
@@ -95,3 +95,4 @@ UNKNOWN - UNKNOWN
   * Responsible for:
   * Hosting shifts and trainings
   * Supervising the shop floor and in-store departments
+
