@@ -96,7 +96,7 @@ He/Him
   * Responsible for:
   * Hosting shifts and trainings
 
-### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/189a84be-2b11-44e5-8440-0bbc7aab431b" width="25" height="25"> Bloxstreet Corporation
+### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/189a84be-2b11-44e5-8440-0bbc7aab431b" width="25" height="25"> [Bloxstreet Corporation](https://www.roblox.com/groups/2700627/BloxStreet-Corporation#!/about)
 <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> UNKNOWN - UNKNOWN
 
 * Store Executive <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/bc5d1b7a-ece2-4238-baae-109fbcedf7af" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20">
@@ -117,7 +117,7 @@ He/Him
   * Responsible for:
   * Training trainees at the training centre
 
-### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/6735b0e6-022b-45bd-ba6e-1f257cc694e3" width="25" height="25"> Tesco Roblox
+### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/6735b0e6-022b-45bd-ba6e-1f257cc694e3" width="25" height="25"> [Tesco Roblox](https://www.roblox.com/groups/8588327/Tesco-Roblox#!/about)
 <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> UNKNOWN - UNKNOWN  
 
 * Store Manager <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20">
