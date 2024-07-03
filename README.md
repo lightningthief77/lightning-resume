@@ -55,6 +55,14 @@ Unknown - Friday, June 21, 2024
   * Hosting shifts and trainings
   * Ranking and Demoting
   * Handling reports and moderating the discord
+ 
+* Corporate Advisor <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/bc5d1b7a-ece2-4238-baae-109fbcedf7af" width="20" height="20">
+* UNKNOWN - UNKNOWN
+  * Responsible for:
+  * Group management
+  * Hosting shifts and trainings
+  * Ranking and Demoting
+  * Handling reports and moderating the discord
 
 * Corporate Intern <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/bc5d1b7a-ece2-4238-baae-109fbcedf7af" width="20" height="20">
 * UNKNOWN - UNKNOWN
