@@ -44,15 +44,15 @@ He/Him
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/a0a1de31-d663-4556-9f4a-5bd316057d7c" width="25" height="25"> Greggs PLC
 <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> Unknown - Friday, June 21, 2024  
 
-* Human Resources Deputy-Director <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b4309ecb-354d-4be9-b2f0-647e19987c72" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
+* Human Resources Deputy-Director <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b4309ecb-354d-4be9-b2f0-647e19987c72" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/79eb3e9c-60ef-45ff-83f6-ab788d1fae16" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/be13acc7-48b1-4936-b083-bb6a85745b99" width="20" height="20">
 * Unknown - Friday, June 21, 2024
   * Responsible for:
   * Helping manage the Human Resources Department alongside the Director
   * Managing the staff and management team, and handling misconduct reports
   * Managing and operating the Human Resources internal mailing system <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/481e2fe5-63f6-4ce6-ac44-fc92d34800bb" width="20" height="20">
 
-* Moderation Co-Lead <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b4309ecb-354d-4be9-b2f0-647e19987c72" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/35313559-a9ed-45d4-ae41-1271370bc2b9" width="20" height="20">
-* Unknown - Friday, June 21, 2024
+* Moderation Co-Lead <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b4309ecb-354d-4be9-b2f0-647e19987c72" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/35313559-a9ed-45d4-ae41-1271370bc2b9" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/be13acc7-48b1-4936-b083-bb6a85745b99" width="20" height="20">
+* UNKNOWN - UNKNOWN
   * Responsible for:
   * Helping manage the Moderation Team alongside the Lead
   * Handling reports
@@ -113,5 +113,3 @@ He/Him
 * UNKNOWN - UNKNOWN
   * Responsible for:
   * Training trainees at the training centre
-
-
