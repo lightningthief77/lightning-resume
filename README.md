@@ -34,7 +34,7 @@ Unknown - Unknown
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/a0a1de31-d663-4556-9f4a-5bd316057d7c" width="25" height="25"> Greggs PLC
 Unknown - Friday, June 21, 2024  
 
-* Human Resources Deputy-Director <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
+* Human Resources Deputy-Director <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b4309ecb-354d-4be9-b2f0-647e19987c72" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
 * Unknown - Friday, June 21, 2024
   * Responsible for:
   * Helping manage the Human Resources Department alongside the Director
