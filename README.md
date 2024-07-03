@@ -14,6 +14,11 @@ He/Him
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d6d9e0df-ac68-466b-9d27-468ddb3b316c" width="25" height="25"> Starblocks Corporation
 Unknown - Unknown  
 
+* Corporate Intern <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b4309ecb-354d-4be9-b2f0-647e19987c72" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
+* UNKNOWN - UNKNOWN
+  * Responsible for:
+  * Learning how to become Corporate and work in a department of choice (staffing or relations)
+
 * Shift Manager <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20">
 * Saturday June 29th, 2024 - Now
   * Responsible for:
