@@ -44,8 +44,28 @@ Unknown - Friday, June 21, 2024
 * Unknown - Friday, June 21, 2024
   * Responsible for:
   * Group management
+  * Hosting shifts and trainings
   * Ranking and Demoting
   * Handling reports and moderating the discord
+
+* Corporate Officer <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/bc5d1b7a-ece2-4238-baae-109fbcedf7af" width="20" height="20">
+* UNKNOWN - UNKNOWN
+  * Responsible for:
+  * Group management
+  * Hosting shifts and trainings
+  * Ranking and Demoting
+  * Handling reports and moderating the discord
+
+* Corporate Intern <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/bc5d1b7a-ece2-4238-baae-109fbcedf7af" width="20" height="20">
+* UNKNOWN - UNKNOWN
+  * Responsible for:
+  * Hosting shifts and trainings
+  * TODO
+
+* Team Leader <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20">
+* UNKNOWN - UNKNOWN
+  * Responsible for:
+  * Hosting shifts and trainings
 
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/189a84be-2b11-44e5-8440-0bbc7aab431b" width="25" height="25"> Bloxstreet Corporation
 UNKNOWN - UNKNOWN
@@ -57,3 +77,8 @@ UNKNOWN - UNKNOWN
   * Hosting shifts and trainings
   * Supervising the shop floor and in-store departments
 
+* Store Director <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/bc5d1b7a-ece2-4238-baae-109fbcedf7af" width="20" height="20">
+* UNKNOWN - UNKNOWN
+  * Responsible for:
+  * Hosting shifts and trainings
+  * Supervising the shop floor and in-store departments
