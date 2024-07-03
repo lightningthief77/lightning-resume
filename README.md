@@ -102,3 +102,7 @@ He/Him
   * Hosting shifts and trainings
   * Supervising the shop floor and in-store departments
 
+* Store Manager <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20">
+* UNKNOWN - UNKNOWN
+  * Responsible for:
+  * Training trainees at the training centre
