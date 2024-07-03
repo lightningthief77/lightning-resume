@@ -2,7 +2,7 @@
 🍁 Toronto, Ontario  
 He/Him
 
-### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/80549d67-b58f-4ec0-9ebe-4300e98b70e2" width="25" height="25"> Circle™️ Retail Group
+### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/6735b0e6-022b-45bd-ba6e-1f257cc694e3" width="25" height="25"> Circle™️ Retail Group
 <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> 2024 - Now  
 
 * Group Management <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/92382f8b-16ca-408c-bc66-baddc5133b6c" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20">
