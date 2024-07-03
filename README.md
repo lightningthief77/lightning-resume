@@ -52,6 +52,7 @@ Unknown - Friday, June 21, 2024
   * Hosting shifts and trainings
   * Ranking and Demoting
   * Handling reports and moderating the discord
+  * Responsible for managing and operating the Human Resources internal mailing system <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/481e2fe5-63f6-4ce6-ac44-fc92d34800bb" width="20" height="20">
 
 * Corporate Officer <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/bc5d1b7a-ece2-4238-baae-109fbcedf7af" width="20" height="20">
 * UNKNOWN - UNKNOWN
