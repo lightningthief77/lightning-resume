@@ -19,13 +19,13 @@ He/Him
   * Responsible for:
   * Learning how to become a member of Corporate and work in a department of choice (staffing or relations)
 
-* Shift Manager <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20">
+* Shift Manager <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20">
 * Saturday June 29th, 2024 - Now
   * Responsible for:
   * Hosting shifts down at the Coffee Shop
   * Moderating rulebreakers
 
-* Shift Supervisor <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20">
+* Shift Supervisor <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20">
 * Thursday June 27th, 2024 - Saturday June 29th, 2024
   * Responsible for:
   * Hosting shifts down at the Coffee Shop
