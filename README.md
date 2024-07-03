@@ -102,5 +102,3 @@ He/Him
   * Hosting shifts and trainings
   * Supervising the shop floor and in-store departments
 
-![Event](https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416)
-
