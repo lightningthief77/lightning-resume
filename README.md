@@ -51,6 +51,13 @@ He/Him
   * Managing the staff and management team, and handling misconduct reports
   * Managing and operating the Human Resources internal mailing system <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/481e2fe5-63f6-4ce6-ac44-fc92d34800bb" width="20" height="20">
 
+* Moderation Co-Lead <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b4309ecb-354d-4be9-b2f0-647e19987c72" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/35313559-a9ed-45d4-ae41-1271370bc2b9" width="20" height="20">
+* Unknown - Friday, June 21, 2024
+  * Responsible for:
+  * Helping manage the Moderation Team alongside the Lead
+  * Handling reports
+  * Managing and operating the ticketing system
+
 * Board of Directors <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/bc5d1b7a-ece2-4238-baae-109fbcedf7af" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20">
 * Unknown - Friday, June 21, 2024
   * Responsible for:
@@ -106,3 +113,5 @@ He/Him
 * UNKNOWN - UNKNOWN
   * Responsible for:
   * Training trainees at the training centre
+
+
