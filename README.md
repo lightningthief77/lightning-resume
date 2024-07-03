@@ -2,6 +2,9 @@
 🍁 Toronto, Ontario  
 He/Him
 
+> [!NOTE]
+> Some sections in the resume may not be up to date. If so, please open an issue.
+
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/6735b0e6-022b-45bd-ba6e-1f257cc694e3" width="25" height="25"> Circle™️ Retail Group
 <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> 2024 - Now  
 
