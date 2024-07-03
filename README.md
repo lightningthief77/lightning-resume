@@ -3,7 +3,7 @@
 He/Him
 
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/80549d67-b58f-4ec0-9ebe-4300e98b70e2" width="25" height="25"> Circle™️ Retail Group
-<img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d7a14d7e-2639-4664-9ba7-d9843e5019ec" width="24" height="24"> 2024 - Now  
+<img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> 2024 - Now  
 
 * Group Management <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/92382f8b-16ca-408c-bc66-baddc5133b6c" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20">
   * Responsible for:
@@ -12,7 +12,7 @@ He/Him
   * Managing the ticketing and mailing system <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/481e2fe5-63f6-4ce6-ac44-fc92d34800bb" width="20" height="20">
 
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d6d9e0df-ac68-466b-9d27-468ddb3b316c" width="25" height="25"> Starblocks Corporation
-<img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d7a14d7e-2639-4664-9ba7-d9843e5019ec" width="24" height="24"> Unknown - Unknown  
+<img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> Unknown - Unknown  
 
 * Corporate Intern <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b4309ecb-354d-4be9-b2f0-647e19987c72" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
 * UNKNOWN - UNKNOWN
@@ -42,7 +42,7 @@ He/Him
   * TODO
 
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/a0a1de31-d663-4556-9f4a-5bd316057d7c" width="25" height="25"> Greggs PLC
-<img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d7a14d7e-2639-4664-9ba7-d9843e5019ec" width="24" height="24"> Unknown - Friday, June 21, 2024  
+<img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> Unknown - Friday, June 21, 2024  
 
 * Human Resources Deputy-Director <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b4309ecb-354d-4be9-b2f0-647e19987c72" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
 * Unknown - Friday, June 21, 2024
@@ -87,7 +87,7 @@ He/Him
   * Hosting shifts and trainings
 
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/189a84be-2b11-44e5-8440-0bbc7aab431b" width="25" height="25"> Bloxstreet Corporation
-<img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d7a14d7e-2639-4664-9ba7-d9843e5019ec" width="24" height="24"> UNKNOWN - UNKNOWN
+<img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> UNKNOWN - UNKNOWN
 
 * Store Executive <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/bc5d1b7a-ece2-4238-baae-109fbcedf7af" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20">
 * Unknown - Friday, June 21, 2024
@@ -102,4 +102,5 @@ He/Him
   * Hosting shifts and trainings
   * Supervising the shop floor and in-store departments
 
+![Event](https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416)
 
