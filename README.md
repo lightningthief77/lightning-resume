@@ -3,7 +3,7 @@
 He/Him
 
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/80549d67-b58f-4ec0-9ebe-4300e98b70e2" width="25" height="25"> Circle™️ Retail Group
-2024 - Now  
+<img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d7a14d7e-2639-4664-9ba7-d9843e5019ec" width="24" height="24"> 2024 - Now  
 
 * Group Management <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/92382f8b-16ca-408c-bc66-baddc5133b6c" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20">
   * Responsible for:
@@ -12,7 +12,7 @@ He/Him
   * Managing the ticketing and mailing system <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/481e2fe5-63f6-4ce6-ac44-fc92d34800bb" width="20" height="20">
 
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d6d9e0df-ac68-466b-9d27-468ddb3b316c" width="25" height="25"> Starblocks Corporation
-Unknown - Unknown  
+<img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d7a14d7e-2639-4664-9ba7-d9843e5019ec" width="24" height="24"> Unknown - Unknown  
 
 * Corporate Intern <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b4309ecb-354d-4be9-b2f0-647e19987c72" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
 * UNKNOWN - UNKNOWN
@@ -101,4 +101,5 @@ UNKNOWN - UNKNOWN
   * Responsible for:
   * Hosting shifts and trainings
   * Supervising the shop floor and in-store departments
+
 
