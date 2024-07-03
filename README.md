@@ -42,7 +42,7 @@ He/Him
   * TODO
 
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/a0a1de31-d663-4556-9f4a-5bd316057d7c" width="25" height="25"> Greggs PLC
-Unknown - Friday, June 21, 2024  
+<img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d7a14d7e-2639-4664-9ba7-d9843e5019ec" width="24" height="24"> Unknown - Friday, June 21, 2024  
 
 * Human Resources Deputy-Director <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b4309ecb-354d-4be9-b2f0-647e19987c72" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
 * Unknown - Friday, June 21, 2024
@@ -87,7 +87,7 @@ Unknown - Friday, June 21, 2024
   * Hosting shifts and trainings
 
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/189a84be-2b11-44e5-8440-0bbc7aab431b" width="25" height="25"> Bloxstreet Corporation
-UNKNOWN - UNKNOWN
+<img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d7a14d7e-2639-4664-9ba7-d9843e5019ec" width="24" height="24"> UNKNOWN - UNKNOWN
 
 * Store Executive <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/bc5d1b7a-ece2-4238-baae-109fbcedf7af" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20">
 * Unknown - Friday, June 21, 2024
