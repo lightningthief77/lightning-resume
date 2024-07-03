@@ -5,7 +5,7 @@ He/Him
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/80549d67-b58f-4ec0-9ebe-4300e98b70e2" width="25" height="25"> Circle™️ Retail Group
 2024 - Now  
 
-* Group Management <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/dab6b811-580d-48ea-b970-492958033a76" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/92382f8b-16ca-408c-bc66-baddc5133b6c" width="20" height="20">
+* Group Management <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/92382f8b-16ca-408c-bc66-baddc5133b6c" width="20" height="20">
   * Responsible for:
   * Group Management
   * Managing various departments
