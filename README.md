@@ -12,7 +12,7 @@ He/Him
   * Managing the ticketing and mailing system <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/481e2fe5-63f6-4ce6-ac44-fc92d34800bb" width="20" height="20">
 
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d6d9e0df-ac68-466b-9d27-468ddb3b316c" width="25" height="25"> Starblocks Corporation
-<img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> Unknown - Unknown  
+<img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> Tuesday June 4th, 2024 - Unknown  
 
 * Corporate Intern <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b4309ecb-354d-4be9-b2f0-647e19987c72" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
 * UNKNOWN - UNKNOWN
@@ -32,7 +32,7 @@ He/Him
   * Moderating rulebreakers
 
 * Intern <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/c6df08f1-d7e9-4973-a694-3a868fa03870" width="20" height="20">
-* UNKNOWN - UNKNOWN
+* Tuesday June 4th, 2024 - Thursday June 27th, 2024
   * Responsible for:
   * Learning how to become a member of management (Shift Supervisor)
  
