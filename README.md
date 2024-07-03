@@ -35,6 +35,11 @@ Unknown - Unknown
 * UNKNOWN - UNKNOWN
   * Responsible for:
   * Learning how to become a member of management (Shift Supervisor)
+ 
+* Barista Trainer <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/ab0da528-7361-41f9-9269-51c6d9bc20a6" width="20" height="20">
+* UNKNOWN - UNKNOWN
+  * Responsible for:
+  * TODO
 
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/a0a1de31-d663-4556-9f4a-5bd316057d7c" width="25" height="25"> Greggs PLC
 Unknown - Friday, June 21, 2024  
