@@ -13,6 +13,7 @@ He/Him
   * Group Management
   * Development Oversight
   * Department Oversight
+  * Overseeing the ticketing system <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/481e2fe5-63f6-4ce6-ac44-fc92d34800bb" width="20" height="20">
 
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/6735b0e6-022b-45bd-ba6e-1f257cc694e3" width="25" height="25"> [Circle™️ Retail Group](https://www.roblox.com/groups/34020323/Circle-Group#!/about) <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/ea0a9676-2f7a-4879-a2ac-aaf335a15e83" width="20" height="20">
 <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> 2024 - Now  
@@ -68,7 +69,7 @@ He/Him
   * Responsible for:
   * Helping manage the Moderation Team alongside the Lead
   * Handling reports
-  * Managing and operating the ticketing system
+  * Managing and operating the ticketing system <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/481e2fe5-63f6-4ce6-ac44-fc92d34800bb" width="20" height="20">
 
 * Board of Directors <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/bc5d1b7a-ece2-4238-baae-109fbcedf7af" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20">
 * Unknown - Friday, June 21, 2024
