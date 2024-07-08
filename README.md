@@ -54,6 +54,11 @@ He/Him
   * Responsible for:
   * TODO
 
+* Barista <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/122c30f8-b827-4f7b-880f-88ef3aa8fd8e" width="20" height="20">
+* UNKNOWN - UNKNOWN
+  * Responsible for:
+  * TODO
+
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/a0a1de31-d663-4556-9f4a-5bd316057d7c" width="25" height="25"> [Greggs PLC UK](https://www.roblox.com/groups/10341599/Greggs-PLC-UK#!/about)
 <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> Unknown - Friday, June 21, 2024  
 
@@ -134,5 +139,4 @@ He/Him
 * Unknown - Friday, June 21, 2024
   * Responsible for:
   * TODO
-
 
