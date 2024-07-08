@@ -43,12 +43,12 @@ He/Him
   * Hosting shifts down at the Coffee Shop
   * Moderating rulebreakers
 
-* Intern <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/c6df08f1-d7e9-4973-a694-3a868fa03870" width="20" height="20">
+* Intern <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/c6df08f1-d7e9-4973-a694-3a868fa03870" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20">
 * Tuesday June 4th, 2024 - Thursday June 27th, 2024
   * Responsible for:
   * Learning how to become a member of management (Shift Supervisor)
  
-* Barista Trainer <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/ab0da528-7361-41f9-9269-51c6d9bc20a6" width="20" height="20">
+* Barista Trainer <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/ab0da528-7361-41f9-9269-51c6d9bc20a6" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20">
 * UNKNOWN - UNKNOWN
   * Responsible for:
   * TODO
