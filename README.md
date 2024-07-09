@@ -37,6 +37,7 @@ He/Him
   * Responsible for:
   * Hosting shifts down at the Coffee Shop
   * Moderating rulebreakers
+  * Handling Cash Management <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/099c43c7-bb90-41df-a04a-328eeac1d9cf" width="20" height="20">
 
 * Shift Supervisor <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20">
 * Thursday June 27th, 2024 - Saturday June 29th, 2024
@@ -139,4 +140,3 @@ He/Him
 * Unknown - Friday, June 21, 2024
   * Responsible for:
   * TODO
-
