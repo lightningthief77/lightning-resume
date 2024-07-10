@@ -13,6 +13,7 @@ He/Him
 * UNKNOWN - UNKNOWN
   * Responsible for:
   * Logging and maintaining the structure of PENTAGRAM's databases - including but not limited to member ORBAT's and medal databases
+  * Creating departmental documents and spreadsheets
 
 * Associate <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/6da37d4f-08cc-45e0-bab5-7ad11b7a2798" width="20" height="20">
 * Tuesday July 2th, 2024 - NOW
