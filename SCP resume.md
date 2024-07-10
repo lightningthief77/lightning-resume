@@ -10,10 +10,12 @@ He/Him
 <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> UNKNOWN - Now  
 
 * Office of the Inspector General Command Staff <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/3fdd849a-57bf-4270-a560-c81489deae30" width="20" height="20">
+* UNKNOWN - UNKNOWN
   * Responsible for:
   * Logging and maintaining the structure of PENTAGRAM's databases - including but not limited to member ORBAT's and medal databases
 
 * Associate <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/6da37d4f-08cc-45e0-bab5-7ad11b7a2798" width="20" height="20">
+* Tuesday July 2th, 2024 - NOW
   * Responsible for:
   * TODO
 
@@ -22,18 +24,22 @@ He/Him
 <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> UNKNOWN - Now  
 
 * SD Security Guard <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d100df28-878d-4ed2-8124-532caba8ceaf" width="20" height="20">
+* UNKNOWN - UNKNOWN
   * Responsible for:
   * TODO
 
 * MD Medical Student <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d3b659b3-908a-4e5f-b26b-5c8e8eb45fb0" width="20" height="20">
+* UNKNOWN - UNKNOWN
   * Responsible for:
   * TODO
 
 * Security Class 1 <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f18bf863-21f8-4a76-90fa-7e7c462a91c2" width="20" height="20">
+* UNKNOWN - UNKNOWN
   * Responsible for:
   * TODO
 
 * Security Class 0 <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f18bf863-21f8-4a76-90fa-7e7c462a91c2" width="20" height="20">
+* UNKNOWN - UNKNOWN
   * Responsible for:
   * TODO
 
