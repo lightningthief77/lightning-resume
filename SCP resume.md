@@ -54,7 +54,7 @@ He/Him
   * TODO
 
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/4d5b1726-7512-4ed5-b6b8-1d54d5f289e5" width="25" height="25"> [SCPF || Scpecial Containment Procedures Foundation](https://www.roblox.com/groups/3069549/SCPF-Special-Containment-Procedures-Foundation#!/about) <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/ea0a9676-2f7a-4879-a2ac-aaf335a15e83" width="20" height="20">  
-<img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/3e84a3d3-7cea-4013-8268-94b4b3f4244f" width="20" height="20"> discord.gg/pri  
+<img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/3e84a3d3-7cea-4013-8268-94b4b3f4244f" width="20" height="20"> discord.gg/gVgcuDy  
 <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> UNKNOWN - Now  
 
 * Level 1 <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f18bf863-21f8-4a76-90fa-7e7c462a91c2" width="20" height="20">
