@@ -30,7 +30,7 @@ He/Him
 * Staffing Intern <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/c6df08f1-d7e9-4973-a694-3a868fa03870" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
 * Tuesday July 9th, 2024 - NOW
   * Responsible for:
-  * TODO
+  * Learning how to become a member of Staffing
 
 * Corporate Intern <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/c6df08f1-d7e9-4973-a694-3a868fa03870" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d0537104-ed7a-4314-bbb8-329711fed557" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b4309ecb-354d-4be9-b2f0-647e19987c72" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/f5f69adf-910e-4da9-a26a-e3c6192d248e" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
 * Tuesday July 9th, 2024 - NOW
