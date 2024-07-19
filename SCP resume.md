@@ -16,12 +16,12 @@ He/Him
   * Creating departmental documents and spreadsheets
 
 * Department Head <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/6da37d4f-08cc-45e0-bab5-7ad11b7a2798" width="20" height="20">
-* Tuesday July 2th, 2024 - NOW
+* Wednesday July 17th, 2024 - NOW
   * Responsible for:
   * TODO
 
 * Administrative Staff <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/6da37d4f-08cc-45e0-bab5-7ad11b7a2798" width="20" height="20">
-* Tuesday July 2th, 2024 - NOW
+* UNKNOWN - Wednesday July 17th, 2024
   * Responsible for:
   * TODO
 
