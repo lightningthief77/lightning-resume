@@ -9,11 +9,21 @@ He/Him
 <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/3e84a3d3-7cea-4013-8268-94b4b3f4244f" width="20" height="20"> discord.gg/FTXFx3X664  
 <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> UNKNOWN - Now  
 
-* Office of the Inspector General Command Staff <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/3fdd849a-57bf-4270-a560-c81489deae30" width="20" height="20">
+* Office of the Inspector General <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/3fdd849a-57bf-4270-a560-c81489deae30" width="20" height="20">
 * UNKNOWN - UNKNOWN
   * Responsible for:
   * Logging and maintaining the structure of PENTAGRAM's databases - including but not limited to member ORBAT's and medal databases
   * Creating departmental documents and spreadsheets
+
+* Department Head <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/6da37d4f-08cc-45e0-bab5-7ad11b7a2798" width="20" height="20">
+* Tuesday July 2th, 2024 - NOW
+  * Responsible for:
+  * TODO
+
+* Administrative Staff <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/6da37d4f-08cc-45e0-bab5-7ad11b7a2798" width="20" height="20">
+* Tuesday July 2th, 2024 - NOW
+  * Responsible for:
+  * TODO
 
 * Associate <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/6da37d4f-08cc-45e0-bab5-7ad11b7a2798" width="20" height="20">
 * Tuesday July 2th, 2024 - NOW
