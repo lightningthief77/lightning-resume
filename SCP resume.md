@@ -15,6 +15,12 @@ He/Him
   * Logging and maintaining the structure of PENTAGRAM's databases - including but not limited to member ORBAT's and medal databases
   * Creating departmental documents and spreadsheets
 
+* Office of the Inspector General Inspector General <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/3fdd849a-57bf-4270-a560-c81489deae30" width="20" height="20">
+* UNKNOWN - UNKNOWN
+  * Responsible for:
+  * Overseeing and spearheading operations of the Department
+  * Recruiting and hiring staff
+
 * Department Head <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/6da37d4f-08cc-45e0-bab5-7ad11b7a2798" width="20" height="20">
 * Wednesday July 17th, 2024 - NOW
   * Responsible for:
