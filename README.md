@@ -27,6 +27,11 @@ He/Him
 ### <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/d6d9e0df-ac68-466b-9d27-468ddb3b316c" width="25" height="25"> [Starblocks Corporation](https://www.roblox.com/groups/14499927/Starblocks#!/about) <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/ea0a9676-2f7a-4879-a2ac-aaf335a15e83" width="20" height="20">
 <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/b27dd1f6-c317-44e6-9173-d1fcff366416" width="24" height="24"> Tuesday June 4th, 2024 - Unknown  
 
+* Staffing Member <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/c6df08f1-d7e9-4973-a694-3a868fa03870" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
+* UNKNOWN - UNKNOWN
+  * Responsible for:
+  * Completing Staffing tasks
+
 * Staffing Intern <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/c6df08f1-d7e9-4973-a694-3a868fa03870" width="20" height="20"> <img src="https://github.com/lightningthief77/lightning-resume/assets/131876425/016c09e0-2d44-4ee9-9f61-e400c00a9a67" width="20" height="20">
 * Tuesday July 9th, 2024 - NOW
   * Responsible for:
